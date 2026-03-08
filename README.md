@@ -26,13 +26,13 @@ Los scripts se ejecutan automáticamente en cada reinicio (`@reboot` vía cron).
 
 ```bash
 # Organizar descargas
-python3 order_downloads/main.py ~/Downloads
+python3 order_downloads/main.py C:\Users\chaoa\Downloads
 
 # Organizar capturas
-python3 order_screenshots/main.py
+python3 order_screenshots/main.py C:\Users\chaoa\Pictures\Screenshots
 
 # Buscar duplicados (recursivo)
-python3 remove_duplicates/main.py ~/Downloads -r
+python3 remove_duplicates/main.py C:\Users\chaoa\Downloads -r
 ```
 
 ## Personalización
