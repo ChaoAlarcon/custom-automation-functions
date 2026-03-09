@@ -9,7 +9,7 @@ logging.basicConfig(
     datefmt='%Y-%m-%d %H:%M:%S'
 )
 
-DEFAULT_SCREENSHOTS_DIR = "/home/miguel/Imágenes/Capturas de Pantalla"
+DEFAULT_SCREENSHOTS_DIR = r"C:\Users\chaoa\Pictures\Screenshots"
 
 def move_file_to_date_folder(directory: Path):
     for file in directory.iterdir():

@@ -37,7 +37,7 @@ python3 remove_duplicates/main.py C:\Users\chaoa\Downloads -r
 
 ## Automatización
 
-Add run_windows.bat to Windows startup to automate downloads organization.
+Add run_windows.bat to Windows startup to automate downloads and screenshots organization.
 
 ## Personalización
 
