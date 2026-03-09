@@ -35,6 +35,10 @@ python3 order_screenshots/main.py C:\Users\chaoa\Pictures\Screenshots
 python3 remove_duplicates/main.py C:\Users\chaoa\Downloads -r
 ```
 
+## Automatización
+
+Add run_windows.bat to Windows startup to automate downloads organization.
+
 ## Personalización
 
 Edita `order_downloads/extensions.json` para añadir o modificar categorías de archivos.
