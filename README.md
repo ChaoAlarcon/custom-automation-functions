@@ -50,7 +50,3 @@ Edita `order_downloads/extensions.json` para añadir o modificar categorías de 
 ./order_screenshots/uninstall.sh
 ```
 
-## Requisitos
-
-- Python 3.8+
-- Linux/macOS con cron
